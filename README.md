@@ -5,7 +5,7 @@ This project is designed for **learning, college practicals, and fresher intervi
 
 ---
 
-## 📌 Features
+##  Features
 
 - Create a bank account
 - View account details
@@ -28,7 +28,6 @@ This project is designed for **learning, college practicals, and fresher intervi
 
 ##  Project Structure
 
-```text
 src/
 ├── com.app.model
 │   └── Bank.java
@@ -38,7 +37,6 @@ src/
 │   └── BankServiceImp.java
 ├── com.app.ui
 │   └── BankUI.java
-
 
 
 ##  How to Run the Project
@@ -59,7 +57,7 @@ Copy code
 → **Run As**  
 → **Java Application**
 
----
+ ---
 
 ##  Key Concepts Used
 
