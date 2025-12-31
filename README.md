@@ -1,7 +1,7 @@
 # Bank Management System (Java)
 
 A **console-based Java application** that simulates basic banking operations using **Object-Oriented Programming (OOP)** principles.  
-This project is designed for **learning, college practicals, and fresher interviews**.
+
 
 ---
 
