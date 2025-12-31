@@ -50,11 +50,8 @@ src/
 
 2. Open the project in **Eclipse IDE**
 
-2. Navigate to:
+3. Navigate to:
 src → com.app.ui → BankUI.java
-
-yaml
-Copy code
 
 4. Right-click on `BankUI.java`  
 → **Run As**  
