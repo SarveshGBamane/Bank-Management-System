@@ -1,4 +1,4 @@
-package com.serviceImp;
+package com.app.serviceImp;
 
 import java.util.Scanner;
 

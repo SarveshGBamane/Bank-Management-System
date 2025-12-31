@@ -2,7 +2,7 @@ package com.app.ui;
 
 import java.util.Scanner;
 
-import com.serviceImp.BankServiceImp;
+import com.app.serviceImp.BankServiceImp;
 
 public class BankUI {
 	
