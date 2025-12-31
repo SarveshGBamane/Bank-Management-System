@@ -28,6 +28,7 @@ This project is designed for **learning, college practicals, and fresher intervi
 
 ##  Project Structure
 
+```next
 src/
 ├── com.app.model
 │   └── Bank.java
@@ -38,6 +39,8 @@ src/
 ├── com.app.ui
 │   └── BankUI.java
 
+```
+---
 
 ##  How to Run the Project
 
